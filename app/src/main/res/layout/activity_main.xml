@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
 
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="aThree"
                 android:text="+3 Points" />
@@ -57,7 +57,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="aTwo"
                 android:text="+2 Points" />
@@ -66,7 +66,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="aOne"
                 android:text="Free throw" />
@@ -113,7 +113,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="bThree"
                 android:text="+3 Points" />
@@ -122,7 +122,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="bTwo"
                 android:text="+2 Points" />
@@ -131,7 +131,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="8dp"
-                android:layout_marginLeft="16sp"
+                android:layout_marginLeft="16dp"
                 android:layout_marginRight="16dp"
                 android:onClick="bOne"
                 android:text="Free throw" />
